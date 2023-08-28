@@ -6,8 +6,8 @@ title: Die Bilder
 
 ## Balkon
 
-![Kaffee](/assets/images/banners/coffee.png)
 ![Balkon Sommer](/assets/images/banners/balkon-sommer.png)
+![Kaffee](/assets/images/banners/garten.png)
 ![Balkon Winter](/assets/images/banners/balkon-winter.png)
 ![Ausblick](/assets/images/banners/ausblick-winter.png)
 
