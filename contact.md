@@ -12,3 +12,5 @@ Die zeitliche Verfügbarkeit der Wohnung finden Sie immer aktuell <a href = "htt
 Bis bald in Sörenberg!
 
 Ihre Familie Jakubik
+
+[Familie Jakubik](https://raw.githubusercontent.com/ferienwohnung-flueehuetten-soerenberg/ferienwohnung-flueehuetten-soerenberg.github.io/master/assets/images/banners/family-2.png)
