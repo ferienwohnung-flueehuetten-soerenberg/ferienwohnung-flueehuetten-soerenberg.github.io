@@ -24,7 +24,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Ferienwohnung Flüehütten - Familie Jakubik
+title: Ferienwohnung Flüehütten | Familie Jakubik
 email: ws.jakubik@t-online.de
 author: jhnnsjkbk
 
