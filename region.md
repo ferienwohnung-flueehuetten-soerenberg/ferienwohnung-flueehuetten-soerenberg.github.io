@@ -8,6 +8,8 @@ Egal ob Sie die Ruhe bevorzugen, sich in der Natur erholen oder ob Sie die Regio
 Am Ende sollen Sie zufrieden und gut erholt nach Hause zurückkehren und unsere Region in guter Erinnerung behalten.
 
 ## Sörenberg
+## Brienzer Grat
+## Biosphäre Entlebuch
 
 <p style="text-align:center;">
 <img src="https://raw.githubusercontent.com/ferienwohnung-flueehuetten-soerenberg/ferienwohnung-flueehuetten-soerenberg.github.io/master/assets/images/banners/soerenberg-round.png"
