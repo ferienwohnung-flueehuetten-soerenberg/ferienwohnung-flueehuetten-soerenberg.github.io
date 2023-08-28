@@ -36,7 +36,7 @@ Weitere Informationen: Bitte beachten Sie, dass unsere Wohnung eine Nichtraucher
 Für Buchungsanfragen, melden Sie sich jederzeit gerne per <i class="fa fa-envelope"> </i><a href = "mailto: ws.jakubik@t-online.de"> E-mail</a> bei uns! 
 
 <p style="text-align:center;">
-<img src="https://raw.githubusercontent.com/ferienwohnung-flueehuetten-soerenberg/ferienwohnung-flueehuetten-soerenberg.github.io/master/assets/images/banners/fire.jpg"
+<img src="https://raw.githubusercontent.com/ferienwohnung-flueehuetten-soerenberg/ferienwohnung-flueehuetten-soerenberg.github.io/master/assets/images/banners/fire.png"
      alt="Brienzer Grat"
      width="60%" height="60%"
      style="margin-top: 20px;" />
