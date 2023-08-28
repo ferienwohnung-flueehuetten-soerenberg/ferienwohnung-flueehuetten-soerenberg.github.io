@@ -25,7 +25,7 @@ Am Ende sollen Sie zufrieden und gut erholt nach Hause zurückkehren und unsere 
 <hr style="border:.5px solid lightgray"> <br>
 <br>
 
-## Brienzer Grat
+Brienzer Grat
 <br>
 
 <p style="text-align:center;">
@@ -46,6 +46,6 @@ Am Ende sollen Sie zufrieden und gut erholt nach Hause zurückkehren und unsere 
 <hr style="border:.5px solid lightgray"> <br>
 <br>
 
-## Biosphäre Entlebuch
+Biosphäre Entlebuch
 <br>
 
