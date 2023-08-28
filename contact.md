@@ -10,3 +10,5 @@ Wenn Sie Interesse haben unsere Wohnung zu reservieren, dann schreiben Sie uns e
 Die zeitliche Verfügbarkeit der Wohnung finden Sie immer aktuell <a href = "https://chalet.myswitzerland.com/ferienwohnung/soerenberg/flueehuette-c-jakubik-330124/"> hier</a>. 
 
 Bis bald in Sörenberg!
+
+Ihre Familie Jakubik
