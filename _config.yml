@@ -24,8 +24,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Johannes Jakubik
-email: johannes.jakubik@icloud.com
+title: Ferienwohnung Flüehütten - Familie Jakubik
+email: ws.jakubik@t-online.de
 author: jhnnsjkbk
 
 # Copyright setting
@@ -40,13 +40,13 @@ author: jhnnsjkbk
 #   "Copyright (c) 2017-{currentYear} <a href="https://example.com">{author}</a>"
 #   "Copyright © 2017-2021 Foobar"
 #
-copyright: <div> <br> {currentYear} (c) Johannes Jakubik <div/>
+copyright: <div> <br> {currentYear} (c) Ferienwohnung Flüehütten - Familie Jakubik <div/>
 
 description: >- # this means to ignore newlines until "baseurl:"
-  PhD Candidate @ KIT | Visiting Researcher @ IBM Research
+  Ferienwohnung Flüehütten | Sörenberg | Familie Jakubik
 
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://jhnnsjkbk.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://ferienwohnung-flueehuetten-soerenberg.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # favicon: "assets/images/icons/favicon.ico" # the favicon for your site
 
 # Yat date format
@@ -72,14 +72,14 @@ lang: "en"  # default lang is en
 #Translate languages
 # langs refer to https://cloud.google.com/translate/docs/languages
 translate_langs: []
-#  - lang: en
-#    img: https://cdn.countryflags.com/thumbs/united-kingdom/flag-400.png
-#    text: English
-#
-#  - lang: fr
-#    img: https://cdn.countryflags.com/thumbs/france/flag-400.png
-#    text: French
-#
+  - lang: en
+    img: https://cdn.countryflags.com/thumbs/united-kingdom/flag-400.png
+    text: English
+
+  - lang: fr
+    img: https://cdn.countryflags.com/thumbs/france/flag-400.png
+    text: French
+
 #   - lang: zh-CN
 #     img: https://cdn.countryflags.com/thumbs/china/flag-400.png
 #     text: Chinese(Simple)
@@ -155,7 +155,7 @@ header_pages:
 # Page default value
 defaults:
   home:
-    heading: "Nice meeting you!"
+    heading: "Herzlichen Willkommen in Sörenberg!"
     subheading: ""
     banner: ""
 
