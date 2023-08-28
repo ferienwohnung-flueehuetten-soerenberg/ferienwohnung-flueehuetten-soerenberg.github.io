@@ -144,9 +144,9 @@ lang: "de"  # default lang is en
 header_pages:
  - index.html
  - about.md
+ - publications.md
  - region.md
  - contact.md
-# - publications.md
 #  - media.md
 # - categories.html
 # - tags.html
