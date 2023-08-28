@@ -19,8 +19,10 @@ title: Die Region
 <br>
 
 <hr style="border:.5px solid lightgray"> <br>
+<br>
 
 ## Brienzer Grat
+<br>
 
 <p style="text-align:center;">
 <img src="https://raw.githubusercontent.com/ferienwohnung-flueehuetten-soerenberg/ferienwohnung-flueehuetten-soerenberg.github.io/master/assets/images/banners/brienzer-grat-round.png"
@@ -38,6 +40,8 @@ title: Die Region
 <br>
 
 <hr style="border:.5px solid lightgray"> <br>
+<br>
 
 ## Biosphäre Entlebuch
+<br>
 
