@@ -1,5 +1,5 @@
 ---
-layout: publications
+layout: galery
 title: Die Bilder
 ---
 
