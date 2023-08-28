@@ -12,7 +12,7 @@ Wir freuen uns sehr über Ihr Interesse an unserer Ferienwohnung. Sehr gerne mö
 - 2 Balkone mit Ausblick auf Brienzer Grat
 - Offener Kamin
 - Sauna im Erdgeschoss
-- WLAN | TV
+- WLAN + TV
 - Tiefgaragenstellplatz
 - 400m zum Skigebiet
 - Bushaltestelle direkt vor dem Haus
