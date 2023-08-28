@@ -5,6 +5,7 @@ title: Die Region
 
 ## Sörenberg
 
+Sommer
 <p style="text-align:center;">
 <img src="https://raw.githubusercontent.com/ferienwohnung-flueehuetten-soerenberg/ferienwohnung-flueehuetten-soerenberg.github.io/master/assets/images/banners/sorenberg-round.png"
      alt="Sörenberg Sommer"
@@ -16,9 +17,12 @@ title: Die Region
      alt="Sörenberg Winter"
      width="60%" height="60%"
      style="margin-top: 20px;" />
+Winter
+<br>
 
 ## Brienzer Grat
 
+Sommer
 <p style="text-align:center;">
 <img src="https://raw.githubusercontent.com/ferienwohnung-flueehuetten-soerenberg/ferienwohnung-flueehuetten-soerenberg.github.io/master/assets/images/banners/brienzer-grat-round.png"
      alt="Brienzer Grat"
@@ -31,7 +35,9 @@ title: Die Region
      alt="Brienzer Grat"
      width="60%" height="60%"
      style="margin-top: 20px;" />
+Winter
 
+<br>
 
 ## Biosphäre Entlebuch
 
