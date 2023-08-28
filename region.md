@@ -7,7 +7,7 @@ title: Die Region
 
 Sommer
 <p style="text-align:center;">
-<img src="https://raw.githubusercontent.com/ferienwohnung-flueehuetten-soerenberg/ferienwohnung-flueehuetten-soerenberg.github.io/master/assets/images/banners/sorenberg-round.png"
+<img src="https://raw.githubusercontent.com/ferienwohnung-flueehuetten-soerenberg/ferienwohnung-flueehuetten-soerenberg.github.io/master/assets/images/banners/soerenberg-round.png"
      alt="Sörenberg Sommer"
      width="60%" height="60%"
      style="margin-top: 20px;" />
