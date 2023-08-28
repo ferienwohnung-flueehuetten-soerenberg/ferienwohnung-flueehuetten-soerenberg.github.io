@@ -4,7 +4,7 @@ title: Die Wohnung
 ---
 
 
-Wir freuen uns sehr über Ihr Interesse an unserer Ferienwohnung. Sehr gerne möchten wir Sie in unserer Ferienwohnung als Gäste willkommen heißen. Genießen Sie den herrlichen Ausblick im Sommer wie im Winter, die Ruhe und Gemütlichkeit. Die Wohnung ist ideal für Familien, den Sessellift Platz erreichen Sie zu Fuß in 5 Minuten, eine Skibushaltestelle befindet sich vor dem Haus. Die Lage ist ebenso perfekt für viele schöne Ausflüge und Wanderungen. 
+Wir freuen uns sehr über Ihr Interesse an unserer Ferienwohnung. Sehr gerne möchten wir Sie in unserer Ferienwohnung als Gäste willkommen heißen. Im Folgenden finden Sie einen Überblick über unsere Wohnung:
 
 
 ## Überblick:
