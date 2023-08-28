@@ -3,6 +3,10 @@ layout: cv
 title: Die Region
 ---
 
+Geniessen Sie in der familienfreundlichen Region ein paar stressfreie Ferientage in wunderschöner Natur. 
+Egal ob Sie die Ruhe bevorzugen, sich in der Natur erholen oder ob Sie die Region sportlich erobern wollen.
+Am Ende sollen Sie zufrieden und gut erholt nach Hause zurückkehren und unsere Region in guter Erinnerung behalten.
+
 ## Sörenberg
 
 <p style="text-align:center;">
