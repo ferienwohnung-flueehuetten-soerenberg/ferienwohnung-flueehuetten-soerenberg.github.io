@@ -1,12 +1,12 @@
 ---
 layout: contact
-title: Contact
+title: Die Buchung
 ---
 
-Please feel free to contact me using the information below.
+Wir würden uns sehr freuen Sie bald in unserer Ferienwohnung begrüßen zu dürfen. 
 
-<div>
-<i class="fa fa-envelope"></i>   <a href = "mailto: johannes.jakubik@icloud.com"> johannes.jakubik@icloud.com</a> <br>
+Buchen Sie gerne direkt bei uns, indem Sie uns eine <i class="fa fa-envelope"></i>   <a href = "mailto: johannes.jakubik@icloud.com"> E-Mail</a> senden!
 
-<i class="fa fa-linkedin-square" style="font-size: 1.04rem;"></i>   <a href = "https://www.linkedin.com/in/johannes-jakubik-8763ba167/"> johannes-jakubik</a>
-</div>
+Die zeitliche Verfügbarkeit der Wohnung finden Sie immer aktuell <a href = "https://chalet.myswitzerland.com/ferienwohnung/soerenberg/flueehuette-c-jakubik-330124/"> hier</a>. 
+
+Bis bald in Sörenberg!
