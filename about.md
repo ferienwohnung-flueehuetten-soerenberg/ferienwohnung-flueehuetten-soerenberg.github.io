@@ -8,7 +8,7 @@ Wir freuen uns sehr über Ihr Interesse an unserer Ferienwohnung. Sehr gerne mö
 
 
 ## Überblick:
-- 3.5 Zimmer
+- 3 Zimmer + Gallerie
 - 2 Balkone mit Ausblick auf Brienzer Grat
 - Offener Kamin
 - Sauna im Erdgeschoss
@@ -17,7 +17,7 @@ Wir freuen uns sehr über Ihr Interesse an unserer Ferienwohnung. Sehr gerne mö
 - 400m zum Skigebiet
 - Bushaltestelle direkt vor dem Haus
 
-Weitere Informationen: Bitte beachten Sie, dass unsere Wohnung eine Nichtraucherwohnung ist und Haustiere nicht gestattet sind.
+Weitere Informationen: Bitte beachten Sie, dass unsere Wohnung eine Nichtraucherwohnung ist und Haustiere nicht gestattet sind. Die Wohnung ist in der Vermietung für 4 Personen ausgelegt.
 
 
 ## Preise 
