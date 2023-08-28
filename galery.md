@@ -11,8 +11,8 @@ title: Die Bilder
 ![Balkon Winter](/assets/images/banners/balkon-winter.png)
 ![Ausblick](/assets/images/banners/ausblick-winter.png)
 
-</br>
-</br>
+<br>
+<br>
 
 ## Essbereich und Wohnzimmer
 
@@ -21,30 +21,30 @@ title: Die Bilder
 ![Couch](/assets/images/banners/wohnzimmer-2.png)
 ![Caminee](/assets/images/banners/fire-2.png)
 
-</br>
-</br>
+<br>
+<br>
 
 ## Bad
 
 ![Bad](/assets/images/banners/bad.png)
 
-</br>
-</br>
+<br>
+<br>
 
 ## Zimmer
 
 ![Schlafzimmer](/assets/images/banners/schlafzimmer.png)
 ![Kinderzimmer](/assets/images/banners/kinderzimmer.png)
 
-</br>
-</br>
+<br>
+<br>
 
 ## Galerie
 
 ![Galerie](/assets/images/banners/galerie.png)
 
-</br>
-</br>
+<br>
+<br>
 
 
 
