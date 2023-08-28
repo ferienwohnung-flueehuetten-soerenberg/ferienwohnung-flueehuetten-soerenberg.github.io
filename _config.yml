@@ -71,14 +71,14 @@ lang: "en"  # default lang is en
 
 #Translate languages
 # langs refer to https://cloud.google.com/translate/docs/languages
-#translate_langs: []
-#  - lang: en
-#    img: https://cdn.countryflags.com/thumbs/united-kingdom/flag-400.png
-#    text: English
+translate_langs: []
+  - lang: en
+    img: https://cdn.countryflags.com/thumbs/united-kingdom/flag-400.png
+    text: English
 
-#  - lang: fr
-#    img: https://cdn.countryflags.com/thumbs/france/flag-400.png
-#    text: French
+  - lang: fr
+    img: https://cdn.countryflags.com/thumbs/france/flag-400.png
+    text: French
 
 #   - lang: zh-CN
 #     img: https://cdn.countryflags.com/thumbs/china/flag-400.png
