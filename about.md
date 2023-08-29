@@ -4,7 +4,7 @@ title: Die Wohnung
 ---
 
 
-Unsere Wohnung befindet sich in Sörenberg——inmitten der UNESCO Biosphäre Entlebuch. Im Folgenden finden Sie einen Überblick über unsere Wohnung:
+Unsere Wohnung befindet sich in Sörenberg—inmitten der UNESCO Biosphäre Entlebuch. Im Folgenden finden Sie einen Überblick über unsere Wohnung:
 
 
 ## Überblick:
