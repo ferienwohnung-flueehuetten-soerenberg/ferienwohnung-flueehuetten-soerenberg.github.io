@@ -62,7 +62,7 @@ title: Die Bilder
 
 ## Galerie
 
-![Galerie](/assets/images/banners/galerie-small.png)
+![Galerie](assets/images/banners/PHOTO-2023-08-29-11-22-59.png)
 
 <br>
 <br>
