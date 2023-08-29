@@ -5,9 +5,9 @@ title: Die Region
 
 # Überblick
 
-Geniessen Sie in der familienfreundlichen Region der UNESCO Biosphäre Entlebuch ein paar stressfreie Ferientage in wunderschöner Natur. 
-Egal ob Sie die Ruhe bevorzugen, sich in der Natur erholen oder ob Sie die Region sportlich erobern wollen.
-Am Ende sollen Sie zufrieden und gut erholt nach Hause zurückkehren und unsere Region in guter Erinnerung behalten.
+Genießen Sie in der familienfreundlichen Ferienregion UNESCO Biosphäre Entlebuch entschleunigte Ferientage in herrlicher Natur. 
+Sie lieben die Ruhe, Erholung und sportliche Aktivitäten in der Natur? All das finden Sie in der wunderschönen Region.
+Und wenn Ihnen in Ihrem Urlaub einmal nach städtischem Flair sein sollte, sind die malerischen Städte Luzern, Bern und Thun ebenso nah wie der Sarner See mit seinem schönen Erlebnisbad.
 
 - Informationen zum Ort: [Sörenberg](https://www.soerenberg.ch/de/)
 - Informationen zur Biosphäre: [UNESCO Biosphäre Entlebuch](https://www.biosphaere.ch/de/)
