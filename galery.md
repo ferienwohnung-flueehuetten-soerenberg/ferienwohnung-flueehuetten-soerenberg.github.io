@@ -29,6 +29,10 @@ title: Die Bilder
 
 <br>
 
+![Galerie](/assets/images/banners/wohnzimmer.png)
+
+<br>
+
 ![Galerie](/assets/images/banners/wohnzimmer-1-small.png)
 
 <br>
