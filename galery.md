@@ -22,7 +22,7 @@ title: Die Bilder
 
 <br>
 
-![Aussen](/assets/images/banners/ausssen-2.png)
+![Aussen](/assets/images/banners/aussen-2.png)
 
 <br>
 <br>
