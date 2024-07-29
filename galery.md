@@ -21,6 +21,10 @@ title: Die Bilder
 ![Ausblick](/assets/images/banners/ausblick-winter-small.png)
 
 <br>
+
+![Aussen](/assets/images/banners/ausssen-2.png)
+
+<br>
 <br>
 
 ## Essbereich und Wohnzimmer
@@ -44,6 +48,11 @@ title: Die Bilder
 ![Caminee](/assets/images/banners/fire-2.png)
 
 <br>
+
+![Wohnzimmer](/assets/images/banners/wohnzimmer-2.png)
+
+
+<br>
 <br>
 
 ## Bad
@@ -55,7 +64,7 @@ title: Die Bilder
 
 ## Zimmer
 
-![Schlafzimmer](/assets/images/banners/schlafzimmer-small.png)
+![Schlafzimmer](/assets/images/banners/schlafzimmer-2.png)
 
 <br>
 
