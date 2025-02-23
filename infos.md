@@ -11,6 +11,8 @@ Für Ihre Urlaubsgestaltung finden Sie im Sideboard im Wohnzimmer eine Infokiste
 
 Zusätzlich haben wir Ihnen hier ein paar hilfreiche Infos zusammengestellt.
 
+<br>
+
 
 ## Sörenberg im Sommer 
 - **Wanderkarte**: [https://www.soerenberg.ch/de/infos-service/bergbahnen/wanderkarte](https://www.soerenberg.ch/de/infos-service/bergbahnen/wanderkarte)
@@ -65,6 +67,8 @@ Zusätzlich haben wir Ihnen hier ein paar hilfreiche Infos zusammengestellt.
 
 ![Cablecar](https://raw.githubusercontent.com/ferienwohnung-flueehuetten-soerenberg/ferienwohnung-flueehuetten-soerenberg.github.io/master/assets/images/banners/summercable.png)
 
+<br>
+
 
 ## Sörenberg im Winter
 
@@ -96,6 +100,8 @@ Zusätzlich haben wir Ihnen hier ein paar hilfreiche Infos zusammengestellt.
 
 ![Winter](https://raw.githubusercontent.com/ferienwohnung-flueehuetten-soerenberg/ferienwohnung-flueehuetten-soerenberg.github.io/master/assets/images/banners/wintersunset.png)
 
+<br>
+
 
 ## Allgemeines
 
@@ -109,21 +115,25 @@ Zusätzlich haben wir Ihnen hier ein paar hilfreiche Infos zusammengestellt.
 
 - **Apotheke Schüpfheim**: [https://goapotheke.ch/02127040/Drogerie_Schmidlin](https://goapotheke.ch/02127040/Drogerie_Schmidlin)
 
+
+<br>
+
 ## Notruf
 
 Die wichtigste Notfallnummer in der Schweiz ist 112. Sie verbindet Sie in jeder Notlage mit der Alarmzentrale der Polizei. Sie können sie auch mit einer ausländischen SIM-Karte anrufen oder mit einer Prepaid-Karte auch ohne Guthaben.
 
 
-<br>
 
 <br>
 
 ## Feedback und Anregungen
 
 Wir hoffen, dass wir Ihnen mit diesen Infos ein paar Anregungen und Tipps geben konnten.
+
 Für Feedback oder Anregungen sind wir immer dankbar – schreiben Sie uns gerne eine <i class="fa fa-envelope"></i> <a href = "mailto: ws.jakubik@t-online.de"> E-Mail</a>!
 
 Wir wünschen Ihnen wunderschöne, sonnige und erlebnisreiche Tage in Sörenberg,
+
 Ihre Familie Jakubik
 
 
