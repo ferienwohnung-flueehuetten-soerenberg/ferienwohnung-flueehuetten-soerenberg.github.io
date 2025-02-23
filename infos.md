@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/8d48a21c-cbee-4379-b61a-b54ae089701f)---
+---
 layout: contact
 title: Die Tipps
 ---
