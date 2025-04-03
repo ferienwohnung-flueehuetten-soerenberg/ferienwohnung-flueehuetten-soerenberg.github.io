@@ -65,7 +65,7 @@ Zusätzlich haben wir Ihnen hier ein paar hilfreiche Infos zusammengestellt.
 - **Bern**: [https://www.myswitzerland.com/de-ch/reiseziele/bern/](https://www.myswitzerland.com/de-ch/reiseziele/bern/)
 
 
-![Cablecar](https://raw.githubusercontent.com/ferienwohnung-flueehuetten-soerenberg/ferienwohnung-flueehuetten-soerenberg.github.io/master/assets/images/banners/summercable.png)
+![Hiking](https://raw.githubusercontent.com/ferienwohnung-flueehuetten-soerenberg/ferienwohnung-flueehuetten-soerenberg.github.io/master/assets/images/banners/brienzergrat.png)
 
 <br>
 
@@ -98,7 +98,7 @@ Zusätzlich haben wir Ihnen hier ein paar hilfreiche Infos zusammengestellt.
 
 - **Webcams**: [https://www.soerenberg.ch/de/webcams](https://www.soerenberg.ch/de/webcams)
 
-![Winter](https://raw.githubusercontent.com/ferienwohnung-flueehuetten-soerenberg/ferienwohnung-flueehuetten-soerenberg.github.io/master/assets/images/banners/wintersunset.png)
+![Winter](https://raw.githubusercontent.com/ferienwohnung-flueehuetten-soerenberg/ferienwohnung-flueehuetten-soerenberg.github.io/master/assets/images/banners/tammysnow.png)
 
 <br>
 
